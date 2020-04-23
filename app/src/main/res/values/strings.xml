@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeezerTest</string>
+    <string name="error_offline_text">You are Offline</string>
+
+    <string name="release_date_message">Date de sortie : %1$s</string>
+    <string name="nb_tracks_message">%1$d Titres </string>
+    <string name="track_time">%1$d Min</string>
+    <string name="album_appbar_title">Album</string>
+</resources>
